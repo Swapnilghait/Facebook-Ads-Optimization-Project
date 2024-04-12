@@ -30,7 +30,7 @@ Performance Comparison: Evaluates the efficiency and effectiveness of the two al
 
 
 # Contact
-Your Name - Swapnil Ghait - swapnilghai@gmail.com
+Your Name - Swapnil Ghait - swapnilghait@gmail.com
 
 Project Link: https://colab.research.google.com/drive/108xeZKH7_4lmY-jX78C1el3pc38pnBOG?usp=sharing
 https://colab.research.google.com/drive/1wG6zapj5g39cc4CMsXKCJYaUeXTAlARu?usp=sharing
