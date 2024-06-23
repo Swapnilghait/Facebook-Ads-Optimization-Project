@@ -10,10 +10,6 @@ Welcome to my project on optimizing Facebook ads using Reinforcement Learning. T
 2. [Technologies Used](#technologies-used)
 3. [Features](#features)
 4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Contact](#contact)
 
 ---
 
