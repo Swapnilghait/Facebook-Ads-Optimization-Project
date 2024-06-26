@@ -11,7 +11,6 @@ Welcome to my project on optimizing Facebook ads using Reinforcement Learning. T
 3. [Features](#features)
 4. [Installation](#installation)
 
----
 
 ## Introduction
 
